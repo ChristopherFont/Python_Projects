@@ -26,7 +26,6 @@ def main():
     print(number1, op, number2, '=', calculate(number1, number2, op))
 
 def calculate(n,m,op):
-    tmp = 0
     if op == '+':
         return n + m
     elif op == '-':
