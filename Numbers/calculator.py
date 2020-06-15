@@ -1,4 +1,4 @@
-
+# A basic claulator function
 
 def main():
     number1 = int(input("Enter a number: "))
