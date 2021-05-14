@@ -1,2 +1,2 @@
 # Python_Projects
-The following page includes a list of all my personal python projects. 
+The following pages includes all of my personal python projects. 
