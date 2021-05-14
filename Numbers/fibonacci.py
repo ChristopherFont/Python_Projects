@@ -1,3 +1,4 @@
+#prints out the fibonacci sequence to the nth time provided in the argument
 def fibonacci(maxCount):
     olda = 0
     a = 0
